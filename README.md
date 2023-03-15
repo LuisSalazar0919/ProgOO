@@ -1,4 +1,4 @@
 # ProgOO
 tarea 
 
-[1.TAREA DE INVESTIGACIÓN ](./img/ar.md)
+[1.TAREA DE INVESTIGACIÓN ](./img/README.md)
