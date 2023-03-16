@@ -51,6 +51,17 @@ En años recientes, UML ha seguido siendo ampliamente utilizado en la industria 
 
 Existen diversas herramientas para el modelado en UML, tanto comerciales como de código abierto, que permiten a los desarrolladores y diseñadores crear y editar diagramas UML de manera visual y colaborativa. Algunas de estas herramientas incluyen Enterprise Architect, Visual Paradigm, Rational Rose, StarUML y ArgoUML, entre otras.
 
+### ¿Sabes de alguna empresa local que utilice este lenguaje?
+Existen varias empresas mexicanas que utilizan UML en sus procesos de diseño y desarrollo de software. Algunos ejemplos son:
 
+..*Grupo Modelo: Utiliza UML para modelar y diseñar sus sistemas de producción y distribución de cerveza.
+
+..*Telmex: Utiliza UML en el diseño y desarrollo de sus sistemas de telecomunicaciones y de gestión de redes.
+
+..*Pemex: Utiliza UML en el diseño y desarrollo de sus sistemas de control y monitoreo de sus procesos de producción y distribución de petróleo y gas.
+
+..*Softtek: Es una empresa de tecnología mexicana que utiliza UML en sus proyectos de desarrollo de software para clientes en diversos sectores, incluyendo banca, finanzas, telecomunicaciones, entre otros.
+
+..*Bimbo: Utiliza UML en el diseño y desarrollo de sus sistemas de producción y distribución de pan y otros productos de panadería
 
 
