@@ -42,3 +42,4 @@ En la herencia, la clase padre también se conoce como clase base o superclase, 
 [![Herencia-en-programaci-n-Pluke-CC0-Creative-Commons-CC0-1-0-Universal-Public-Domain.jpg](https://i.postimg.cc/BQw3p2sx/Herencia-en-programaci-n-Pluke-CC0-Creative-Commons-CC0-1-0-Universal-Public-Domain.jpg)](https://postimg.cc/CzD9LBR1)
 
 
+
