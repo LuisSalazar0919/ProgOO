@@ -20,3 +20,11 @@ Propuesto en 1980, Smalltalk es el primer lenguaje orientado a objetos disponibl
 Se considera una acción fundamental a la hora de realizar un código ya que ayuda al usuario a evitar escribir un código de bajo nivel, evitamo el duplicar algún proceso o código y se fomenta el reutilizar métodos, procesoos, etc. y ayuda a aumentar la seguridad en tu código ya que solo los detalles importantes son proporcionados al usuario.
 
 
+
+
+
+
+## ENCAPSULAMIENTO 
+
+
+
