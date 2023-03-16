@@ -42,5 +42,15 @@ En la herencia, la clase padre también se conoce como clase base o superclase, 
 [![herenciaa.jpg](https://i.postimg.cc/vHvhwvDV/herenciaa.jpg)](https://postimg.cc/vccfWfrY)
 
 
+# UML: DIAGRAMA DE CLASES 
+El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje de modelado visual utilizado para diseñar sistemas de software y otros sistemas complejos. Fue desarrollado por un grupo de expertos en lenguajes de modelado liderados por Grady Booch, James Rumbaugh e Ivar Jacobson en la década de 1990.
+
+UML se utiliza en una amplia gama de sistemas, desde aplicaciones de software empresarial hasta sistemas de tiempo real y sistemas embebidos. Ha sido ampliamente utilizado en la industria del software y se ha convertido en un estándar en el modelado de sistemas.
+
+En años recientes, UML ha seguido siendo ampliamente utilizado en la industria del software y ha evolucionado para adaptarse a las nuevas tecnologías y requisitos de los sistemas modernos. Uno de los diagramas más utilizados en UML es el diagrama de clases, que muestra la estructura estática de un sistema y las relaciones entre sus clases.
+
+Existen diversas herramientas para el modelado en UML, tanto comerciales como de código abierto, que permiten a los desarrolladores y diseñadores crear y editar diagramas UML de manera visual y colaborativa. Algunas de estas herramientas incluyen Enterprise Architect, Visual Paradigm, Rational Rose, StarUML y ArgoUML, entre otras.
+
+
 
 
