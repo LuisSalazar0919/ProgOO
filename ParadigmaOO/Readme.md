@@ -29,8 +29,9 @@ Se refiere al ocultamiento de los datos miembros de un objeto, es decir, encapsu
 
 Entonces la encapsulación es un mecanismo de protección o aislamiento de atributos y métodos, es decir, el aislamiento protege a los datos asociados de un objeto contra su modificación por quien no tenga derecho a acceder a ellos, eliminando efectos secundarios e interacciones en cuanto al ocultamiento de los datos miembros de un objeto.
 
-[![encapsulamiento.png](https://i.postimg.cc/rwNnfJCs/encapsulamiento.png)](https://postimg.cc/jDC45y1Y)
-[![encapsulamiento2.png](https://i.postimg.cc/qRz1Mdf6/encapsulamiento2.png)](https://postimg.cc/2bNQ2MSC)
+![](./img/encapsulamiento.png "encapsulamiento")
+![](./img/encapsulamiento2.png "encapsulamiento 2")
+
 
 
 
@@ -39,7 +40,7 @@ La herencia en la programación orientada a objetos es un mecanismo mediante el 
 
 En la herencia, la clase padre también se conoce como clase base o superclase, y la clase hija se conoce como clase derivada o subclase. La clase derivada hereda los atributos y métodos de la clase base, lo que significa que puede utilizarlos como si fueran propios.
 
-[![herenciaa.jpg](https://i.postimg.cc/vHvhwvDV/herenciaa.jpg)](https://postimg.cc/vccfWfrY)
+![](./img/herenciaa.jpg "herencia")
 
 
 # UML: DIAGRAMA DE CLASES 
