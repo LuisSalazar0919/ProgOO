@@ -25,6 +25,11 @@ Se considera una acción fundamental a la hora de realizar un código ya que ayu
 
 
 ## ENCAPSULAMIENTO 
+Se refiere al ocultamiento de los datos miembros de un objeto, es decir, encapsular los atributos y métodos del objeto, de manera que sólo se pueda cambiar mediante las operaciones definidas para ese objeto.
 
+Entonces la encapsulación es un mecanismo de protección o aislamiento de atributos y métodos, es decir, el aislamiento protege a los datos asociados de un objeto contra su modificación por quien no tenga derecho a acceder a ellos, eliminando efectos secundarios e interacciones en cuanto al ocultamiento de los datos miembros de un objeto.
+
+[![encapsulamiento.png](https://i.postimg.cc/rwNnfJCs/encapsulamiento.png)](https://postimg.cc/jDC45y1Y)
+[![encapsulamiento2.png](https://i.postimg.cc/qRz1Mdf6/encapsulamiento2.png)](https://postimg.cc/2bNQ2MSC)
 
 
