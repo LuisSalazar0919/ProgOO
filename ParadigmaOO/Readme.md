@@ -65,3 +65,4 @@ Existen varias empresas mexicanas que utilizan UML en sus procesos de diseño y 
 * **_Bimbo_**: Utiliza UML en el diseño y desarrollo de sus sistemas de producción y distribución de pan y otros productos de panadería
 
 
+# Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
