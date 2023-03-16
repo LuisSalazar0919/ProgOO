@@ -39,7 +39,7 @@ La herencia en la programación orientada a objetos es un mecanismo mediante el 
 
 En la herencia, la clase padre también se conoce como clase base o superclase, y la clase hija se conoce como clase derivada o subclase. La clase derivada hereda los atributos y métodos de la clase base, lo que significa que puede utilizarlos como si fueran propios.
 
-[![herencia.gif](https://i.postimg.cc/hGc273wM/herencia.gif)](https://postimg.cc/9Dgd61cq)
+[![herenciaa.jpg](https://i.postimg.cc/vHvhwvDV/herenciaa.jpg)](https://postimg.cc/vccfWfrY)
 
 
 
