@@ -62,6 +62,6 @@ Existen varias empresas mexicanas que utilizan UML en sus procesos de diseño y 
 
 * Softtek: Es una empresa de tecnología mexicana que utiliza UML en sus proyectos de desarrollo de software para clientes en diversos sectores, incluyendo banca, finanzas, telecomunicaciones, entre otros.
 
-..* Bimbo: Utiliza UML en el diseño y desarrollo de sus sistemas de producción y distribución de pan y otros productos de panadería
+* Bimbo: Utiliza UML en el diseño y desarrollo de sus sistemas de producción y distribución de pan y otros productos de panadería
 
 
