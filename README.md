@@ -1,5 +1,5 @@
 # ProgOO
-![](./ParadigmaOO/img/image.png "logo uni")
+![](./ParadigmaOO/img/image.jpg "logo uni")
 ##
 INSTITUTO TECNOLÓGICO DE TIJUANA
 
