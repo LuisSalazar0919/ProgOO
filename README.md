@@ -1,5 +1,5 @@
 # ProgOO
-[![uni.jpg](https://i.postimg.cc/c4zvqMD1/uni.jpg)](https://postimg.cc/TprdgmMB)
+![](./ParadigmaOO/img/image.png "uni")
 ##
 INSTITUTO TECNOLÓGICO DE TIJUANA
 
