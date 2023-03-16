@@ -66,3 +66,4 @@ Existen varias empresas mexicanas que utilizan UML en sus procesos de diseño y 
 
 
 # Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
+![](./img/tarea1.png "UML")
