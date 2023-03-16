@@ -1,5 +1,19 @@
 # ProgOO
 [![uni.jpg](https://i.postimg.cc/c4zvqMD1/uni.jpg)](https://postimg.cc/TprdgmMB)
+##
+INSTITUTO TECNOLÓGICO DE TIJUANA
+DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+SEMESTRE ENERO-JUNIO 2023
+
+ING. SISTEMAS COMPUTACIONALES
+
+PORGRAMACIÓN ORIENTADA A OBJETOS
+
+SALAZAR ONTIVEROS LUIS ALBERTO 
+
+             2 C 
+             
+
 
 
 [1.TAREA DE INVESTIGACIÓN ](./ParadigmaOO/Readme.md)
